@@ -16,6 +16,5 @@ for user in "$@"; do
         else
             echo "Erreur à la création de l'utilisateur $user"
         fi
-    fi
 done
 
