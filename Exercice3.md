@@ -12,7 +12,7 @@ echo "Bonjour est-ce que ce clavier fonctionne bien ?"
 echo "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"  
 echo "Même des tildes ~ ?"  
 echo "Evidemment !"  
-6.Commande pour mettre en avant le processus gedit est:fg %1    
+6.Commande pour mettre en avant le processus gedit est: fg %1      
 7.Matériels réseaux sur la couche 2 et la couche 3 du modèle OSI sont:  
    . Couche 2 :Switch et le Pont  
    . Couche 3: Routeur et la Passerelle  
